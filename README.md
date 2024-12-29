@@ -71,7 +71,6 @@ To use or modify the Silver House design, follow these steps:
 2. If you have a Figma account, you can duplicate the file and edit it as needed.
 3. Use this design as inspiration or integrate it into your development workflow.
 
-## Screenshots
 
-Include screenshots of the design here if possible. For example:
-```markdown
+
+
